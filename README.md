@@ -1,1 +1,1 @@
-'ms-appinstaller:?source=https://files-community.github.io/package.github.io/Files.Package/Files.Package.appinstaller'
+`ms-appinstaller:?source=https://ModernFlyouts-community.github.io/package.github.io/ModernFlyouts.Package/ModernFlyouts.Package.appinstaller`
